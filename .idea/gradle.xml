@@ -9,17 +9,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/mylocationlogger" />
             <option value="$PROJECT_DIR$/quickcoding01" />
             <option value="$PROJECT_DIR$/quickcoding02" />
           </set>
         </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/quickcoding01" />
-            <option value="$PROJECT_DIR$/quickcoding02" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
