@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/mylocationlogger/mylocationlogger.iml" filepath="$PROJECT_DIR$/mylocationlogger/mylocationlogger.iml" />
       <module fileurl="file://$PROJECT_DIR$/quickcoding01/quickcoding01.iml" filepath="$PROJECT_DIR$/quickcoding01/quickcoding01.iml" />
       <module fileurl="file://$PROJECT_DIR$/quickcoding02/quickcoding02.iml" filepath="$PROJECT_DIR$/quickcoding02/quickcoding02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickcodinggeneric/quickcodinggeneric.iml" filepath="$PROJECT_DIR$/quickcodinggeneric/quickcodinggeneric.iml" />
     </modules>
   </component>
 </project>
