@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/quickcoding02" />
             <option value="$PROJECT_DIR$/quickcodinggeneric" />
             <option value="$PROJECT_DIR$/quickcodingpedometer" />
+            <option value="$PROJECT_DIR$/quickcordingsensor" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

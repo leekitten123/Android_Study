@@ -20,12 +20,12 @@
         "source": "C:\\Users\\hyojin\\Desktop\\aa\\Android_Study\\quickcoding01\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "C:\\Users\\hyojin\\Desktop\\aa\\Android_Study\\quickcoding01\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\hyojin\\Desktop\\aa\\Android_Study\\quickcoding01\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
         "merged": "C:\\Users\\hyojin\\Desktop\\aa\\Android_Study\\quickcoding01\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
         "source": "C:\\Users\\hyojin\\Desktop\\aa\\Android_Study\\quickcoding01\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyojin\\Desktop\\aa\\Android_Study\\quickcoding01\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\hyojin\\Desktop\\aa\\Android_Study\\quickcoding01\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\anim\\abc_slide_out_top.xml"
     },
     {
         "merged": "C:\\Users\\hyojin\\Desktop\\aa\\Android_Study\\quickcoding01\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
